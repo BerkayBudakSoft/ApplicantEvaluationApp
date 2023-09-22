@@ -1,0 +1,7 @@
+Applicant Evaluation Log - 2023-09-22 17:15:16
+Applicant 1 - dasdsa dadsa
+ALES Score: 70.0
+GPA: 3.0
+Exam Score: 60.0
+Interview Scores: 70.0, 80.0
+Final Score: 72.5
